@@ -7,4 +7,5 @@ these activities represent some type of shape that a user has drawn, each activi
 When a new copy of an activity vector is received, the client on the other side automatically draws an identical image on its own canvas using the activity elements that are stored in its activity vector.
 </p>
 
-<h2>Running the program</h2>
+<h2>Running the program :</h2>
+Use the A.class file to run the program. Simply execute the "java A" command to run this painting tool. 
