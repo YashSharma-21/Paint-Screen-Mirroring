@@ -6,3 +6,5 @@ these activities represent some type of shape that a user has drawn, each activi
 <p>Whenever a new activity is performed, it is added into this activity vector and a copy of this activity vector is sent to the connected client (if any)<br>
 When a new copy of an activity vector is received, the client on the other side automatically draws an identical image on its own canvas using the activity elements that are stored in its activity vector.
 </p>
+
+<h2>Running the program</h2>
